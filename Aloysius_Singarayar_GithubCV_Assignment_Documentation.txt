@@ -1,0 +1,13 @@
+Name:Aloysius Singarayar
+
+Email:aloysius_singaraya@yahoo.com
+
+StudentID:2008328
+
+Assignment Title: Interactive Web Application (Assignment 1) - GithubCV (Practical)
+
+Github Account: aloysius25.github.io
+
+4) The link to your repository on GITHUB e.g. the zip download URL
+
+If the source code is too big to upload then the URL to the repository will be sufficient.
